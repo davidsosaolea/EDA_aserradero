@@ -1,2 +1,4 @@
 # EDA_aserradero.
-hola q
+El EDA nos permitirá examinar las ventas en diferentes dimensiones, como la cantidad de productos vendidos, los ingresos generados, los clientes y los patrones estacionales. Además, exploraremos posibles relaciones entre las ventas y variables externas, como el precio de la madera en el mercado, eventos específicos o cambios en la demanda del mercado.
+
+A través del análisis exploratorio de datos de ventas en un aserradero, esperamos identificar oportunidades de mejora, patrones de demanda y áreas donde se pueden implementar estrategias para maximizar la eficiencia operativa y optimizar los resultados financieros. El conocimiento obtenido a partir de este análisis proporcionará información valiosa para los equipos de gestión, ventas y producción, ayudándoles a tomar decisiones fundamentadas y a adaptar sus estrategias en un mercado en constante cambio.
